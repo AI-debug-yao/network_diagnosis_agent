@@ -51,7 +51,7 @@ streamlit run app.py
 
 然后在浏览器中打开显示的地址（通常是 http://localhost:8501）
 
-！[运行结果]（./network_diagnosis_agent.png）
+！[运行结果]（network_diagnosis_agent.png）
 
 #### 方式二：命令行界面
 
